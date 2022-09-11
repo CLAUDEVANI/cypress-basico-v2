@@ -1,29 +1,25 @@
 # Testes automatizados com Cypress - Básico
 
-👋 Seja bem-vindo(a)!
+- Pré-requisitos (jdk, nodes.js, npm, VScode, git, etc.)
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
+## Instalação
 
-## O que você vai aprender
+- Instalei itens do pré-requisitos e dentro da pasta do projeto executei as linhas de comando para criação do projeto cypress.
 
-Durante o curso de testes automatizados com Cypress (básico), você vai aprender:
+### O que foi elaborado nestes testes
 
-- Como configurar um projeto Cypress do zero
-- Como visitar páginas locais e remotas
-- Como lidar com os elementos mais comuns encontrados em aplicações web
-- Como testar _upload_ de arquivos
-- Como realizar as mais diversas verificações de resultados esperados
-- Como criar comandos customizados
-- Como lidar com links que abrem em outra aba do navegador
-- Como rodar testes simulando as dimensões de um dispositivo móvel
-- Como resolver os mesmos problemas de diferentes formas, conhecendo a [API do Cypress](https://docs.cypress.io/api/table-of-contents)
-- Como executar os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação (ou dos testes)
-- Como criar uma documentação mínima para seu projeto de testes automatizados
 
-## Vamos começar?
 
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
+- Configurarando o projeto Cypress do zero
+- Visitando páginas locais e remotas
+- Lidando com os elementos mais comuns encontrados em aplicações web
+- Testar _upload_ de arquivos
+- Realizando as mais diversas verificações de resultados esperados
+- Criando comandos customizados
+- Lidando com links que abrem em outra aba do navegador
+- Rodando testes simulando as dimensões de um dispositivo móvel
+- Resolvendo os mesmos problemas de diferentes formas
+- Executando os testes em um _pipeline_ de integração contínua sempre que mudanças ocorrerem no código da aplicação 
+- Criando uma documentação do projeto de testes automatizados
+- Executando testes em modo headless e modo interativo
 
-___
-
-Este é mais um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
